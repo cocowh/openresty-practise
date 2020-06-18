@@ -46,6 +46,6 @@ tree:
 * install the project under the  `/home/work/local` path  
 * use root user under the install path to run  `./bin/openresty`
 
-if you are a MacOS user, you shoud to install openresty in your mac, then use `ln -s` command to link `./nginx` as your install openrety nginx. 
+if you are a MacOS user, you shoud install openresty in your mac, then use `ln -s` command to link `./nginx` as your install openrety nginx. 
 
 you can compile and install the openresty in your local env as well, then copy `./nginx/lua/*` to your same path.
